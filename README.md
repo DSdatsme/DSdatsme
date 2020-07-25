@@ -1,5 +1,22 @@
-![Github ](https://github-readme-stats.vercel.app/api?username=DSdatsme&show_icons=true&title_color=fff&icon_color=faed27&text_color=9f9f9f&bg_color=151515)
+# Hiya :wave:
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=DSdatsme.DSdatsme)
+![ https://github.com/DSdatsme ](https://github-readme-stats.vercel.app/api?username=DSdatsme&show_icons=true&title_color=fff&icon_color=faed27&text_color=9f9f9f&bg_color=151515)
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DSdatsme)
+
+## Tech
+<center>
+<img src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" style="width:30px;height:30px;" alt="Python">
+<img src="https://avatars0.githubusercontent.com/u/27804?s=200&v=4" style="width:30px;height:30px;" alt="Django">
+
+</center>
+
+<center>
+Hits:
+<br>
+  <img src="https://profile-counter.glitch.me/DSdatsme/count.svg" />
+<code>
+</center>
+
+<!-- OLD VISITORS COUNT -->
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DSdatsme.DSdatsme) -->
