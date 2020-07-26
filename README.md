@@ -1,8 +1,9 @@
 # Hiya :wave:
 
-<center>
+<p align="center"> 
+
 ![ https://github.com/DSdatsme ](https://github-readme-stats.vercel.app/api?username=DSdatsme&show_icons=true&title_color=fff&icon_color=faed27&text_color=9f9f9f&bg_color=151515)
-</center>
+</p>
 
 <!-- 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DSdatsme)
@@ -14,12 +15,11 @@
 
 </center> -->
 
-<center>
+<p align="center"> 
 Hits:
 <br>
-  <img src="https://profile-counter.glitch.me/DSdatsme/count.svg" />
-<code>
-</center>
+  <img src="https://profile-counter.glitch.me/DSdatssme/count.svg" />
+</p>
 
 <!-- OLD VISITORS COUNT -->
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DSdatsme.DSdatsme) -->
