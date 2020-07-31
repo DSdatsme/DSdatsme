@@ -195,7 +195,7 @@
 <p align="center">
 Hits
 <br>
-  <img src="https://profile-counter.glitch.me/DSdatssme/count.svg" />
+  <img src="https://profile-counter.glitch.me/DSdatsme/count.svg" />
 </p>
 
 <!-- OLD VISITORS COUNT -->
