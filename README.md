@@ -1,18 +1,25 @@
 # Hiya :wave:
-
+<!-- 
 <p align="center"> 
-
 ![ https://github.com/DSdatsme ](https://github-readme-stats.vercel.app/api?username=DSdatsme&show_icons=true&title_color=fff&icon_color=faed27&text_color=9f9f9f&bg_color=151515)
 </p>
-
+ -->
 <!-- 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DSdatsme)
  -->
 
-<p align="center">
-----Technologies----
-<br>
-<!-- DevOps Tools -->
+## About me
+
+I am a Cloud Engineer working at Browserstack. I love to work on cloud related technologies especially containerization.
+
+## Socials
+
+- [Linkedin](https://www.linkedin.com/in/dsdatsme)
+- [Twitter](https://www.twitter.com/dsdatsme)
+- [Instagram](https://www.instagram.com/dsdatsme)
+
+## Technologies i've worked on
+
 <img src="https://github.com/hashicorp/vault/blob/master/ui/public/favicon.png?raw=true"
      width=30px
      height=30px
@@ -45,9 +52,6 @@
      width=30px
      height=30px
      alt="Nagios"/>
-
-<br>
-<!-- Languages -->
 <img src="https://avatars.githubusercontent.com/u/1525981"
      width=30px
      height=30px
@@ -64,13 +68,6 @@
      width=30px
      height=30px
      alt="Ruby">
-<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-     width=30px
-     height=30px
-     alt="JavaScript"> -->
-
-<br>
-<!-- Frameworks -->
 <img src="https://avatars.githubusercontent.com/u/27804"
      width=30px
      height=30px
@@ -91,8 +88,6 @@
      width=30px
      height=30px
      alt="Android">
-
-<br>
 <!-- CI/CD -->
 <img src="https://avatars.githubusercontent.com/u/107424"
      width=30px
@@ -114,9 +109,6 @@
      width=30px
      height=30px
      alt="Nexus"/>
-
-<br>
-<!-- Automation -->
 <img src="https://avatars.githubusercontent.com/u/1507452"
      width=30px
      height=30px
@@ -137,9 +129,6 @@
      width=30px
      height=30px
      alt="Fabric"/>
-
-<br>
-<!-- Databases -->
 <img src="https://avatars.githubusercontent.com/u/2452804"
      width=30px
      height=30px
@@ -160,9 +149,6 @@
      width=30px
      height=30px
      alt="InfluxDB"/>
-
-<br>
-<!-- Servers -->
 <img src="https://avatars.githubusercontent.com/u/47359"
      width=30px
      height=30px
@@ -175,9 +161,6 @@
      width=30px
      height=30px
      alt="HAproxy"/>
-
-<br>
-<!-- Cloud -->
 <img src="https://avatars.githubusercontent.com/u/2232217"
      width=30px
      height=30px
@@ -190,7 +173,7 @@
      width=30px
      height=30px
      alt="Nutanix"> -->
-</p>
+
 
 <p align="center">
 Hits
