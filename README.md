@@ -10,7 +10,7 @@
 
 ## About me
 
-I am a Cloud Engineer working at Browserstack. I love to work on cloud related technologies especially containerization.
+I am a Cloud Engineer working at [Browserstack](https://github.com/browserstack). I love to work on cloud related technologies especially containerization.
 
 ## Socials
 
