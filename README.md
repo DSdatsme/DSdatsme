@@ -1,8 +1,6 @@
 # Hiya :wave:
 <!-- 
-<p align="center"> 
-![ https://github.com/DSdatsme ](https://github-readme-stats.vercel.app/api?username=DSdatsme&show_icons=true&title_color=fff&icon_color=faed27&text_color=9f9f9f&bg_color=151515)
-</p>
+
  -->
 <!-- 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DSdatsme)
@@ -174,6 +172,7 @@ I am a Cloud Engineer working at [Browserstack](https://github.com/browserstack)
      height=30px
      alt="Nutanix"> -->
 
+![ https://github.com/DSdatsme ](https://github-readme-stats.vercel.app/api?username=DSdatsme&show_icons=true&title_color=fff&icon_color=faed27&text_color=9f9f9f&bg_color=151515)
 
 <p align="center">
 Hits
