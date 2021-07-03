@@ -18,7 +18,7 @@ I am a Cloud Engineer working at [Browserstack](https://github.com/browserstack)
 
 ## Technologies i've worked on
 
-<img src="https://github.com/hashicorp/vault/blob/master/ui/public/favicon.png?raw=true"
+<img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-vault-logo.png"
      width=30px
      height=30px
      alt="Vault"/>
@@ -115,7 +115,7 @@ I am a Cloud Engineer working at [Browserstack](https://github.com/browserstack)
      width=30px
      height=30px
      alt="Packer"/>
-<img src="https://github.com/hashicorp/terraform/blob/master/lang/funcs/testdata/icon.png?raw=true"
+<img src="https://i.pinimg.com/564x/28/ec/74/28ec7440a57536eebad2931517aa1cce.jpg"
      width=30px
      height=30px
      alt="Terraform"/>
