@@ -8,7 +8,7 @@
 
 ## About me
 
-I am a Cloud Engineer working at [Browserstack](https://github.com/browserstack). I love to work on cloud related technologies especially containerization.
+I am an Site Reliability Engineer working at [Coinbase](https://www.coinbase.com). I love to work on cloud related technologies especially containerization. Currently expanding my knowledge in crypto domain.
 
 ## Socials
 
