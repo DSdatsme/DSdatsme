@@ -99,10 +99,6 @@ I am a Cloud Engineer working at [Browserstack](https://github.com/browserstack)
      width=30px
      height=30px
      alt="CircleCI"/>
-<img src="https://github.com/GoogleContainerTools/kaniko/raw/master/logo/Kaniko-Logo.png"
-     width=30px
-     height=30px
-     alt="Kaniko"/>
 <img src="https://avatars.githubusercontent.com/u/44938"
      width=30px
      height=30px
@@ -111,10 +107,6 @@ I am a Cloud Engineer working at [Browserstack](https://github.com/browserstack)
      width=30px
      height=30px
      alt="Ansible"/>
-<img src="https://github.com/hashicorp/packer/blob/master/website/public/img/favicons/apple-touch-icon.png?raw=true"
-     width=30px
-     height=30px
-     alt="Packer"/>
 <img src="https://i.pinimg.com/564x/28/ec/74/28ec7440a57536eebad2931517aa1cce.jpg"
      width=30px
      height=30px
