@@ -8,7 +8,7 @@
 
 ## About me
 
-I am an Site Reliability Engineer working at [Coinbase](https://www.coinbase.com). I love to work on cloud related technologies especially containerization. Currently expanding my knowledge in crypto domain.
+Doing everything backend and infrastructure at [Scale3Labs](https://www.scale3labs.com). I love to work on cloud related technologies especially containerization. Currently expanding my knowledge in crypto domain.
 
 ## Socials
 
