@@ -8,7 +8,7 @@
 
 ## About me
 
-Doing everything backend and infrastructure at [Scale3Labs](https://www.scale3labs.com). I love to work on cloud related technologies especially containerization. Currently expanding my knowledge in crypto domain.
+Looking for a role in DevOps|SRE|Infra domain. I love to work on cloud related technologies especially containerization. Currently expanding my knowledge in crypto domain.
 
 ## Socials
 
